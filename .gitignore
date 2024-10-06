@@ -2,3 +2,6 @@
 /Tutorial/.vscode
 /Tutorial/saved
 /Tutorial/data
+/Tutorial/data/train_files
+/Tutorial/data/test_files
+/Tutorial/Audiofiles
