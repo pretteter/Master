@@ -1,9 +1,11 @@
 /Backup
 /Tutorial/.vscode
 /Tutorial/saved
-/Tutorial/data
-/Tutorial/data/train_files
-/Tutorial/data/test_files
+/Tutorial/data/*
+!/Tutorial/data/*small_train_ds.zip
+!/Tutorial/data/*small_test_ds.zip
+# /Tutorial/data/train_files
+# /Tutorial/data/test_files
 /Tutorial/Audiofiles
 Audiofiles/
 /.vscode
