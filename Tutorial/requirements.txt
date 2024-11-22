@@ -1,0 +1,12 @@
+conda install tensorflow-directml-plugin
+conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
+
+conda install wrapt
+conda install matplotlib seaborn
+conda install pysoundfile
+conda install nbformat
+conda install ipykernel
+conda install ipynb
+conda install pickleshare
+conda install librosa
+conda install AudioSegment
