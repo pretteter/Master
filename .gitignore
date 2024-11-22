@@ -14,3 +14,14 @@ Audiofiles/
 /.vscode
 /Tutorial/venv
 /Tutorial/venv.zip
+
+# Ignoriere alle Dateien in "Tutorial/saved_models"
+Tutorial/saved_models/*
+
+# Erlaube alle Dateien außer .zip in "Tutorial/saved_models"
+!Tutorial/saved_models/*
+Tutorial/saved_models/*.zip
+
+# Erlaube alles in "good_Models", auch .zip-Dateien
+!Tutorial/saved_models/good_Models/
+!Tutorial/saved_models/good_Models/**
