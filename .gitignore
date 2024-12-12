@@ -1,5 +1,6 @@
 /Backup
 /Tutorial/.vscode
+/Tutorial/logs
 /Tutorial/saved/*
 !/Tutorial/saved/Modells
 /Tutorial/restored_model
