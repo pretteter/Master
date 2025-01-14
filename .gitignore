@@ -8,6 +8,14 @@
 !/Tutorial/data/*small_train_ds.zip
 !/Tutorial/data/*small_test_ds.zip
 !/Tutorial/data/*small_val_ds.zip
+
+/Tutorial/Unzipped_Data_Picture/*
+!/Tutorial/Unzipped_Data_Picture/*small_train_ds.zip
+!/Tutorial/Unzipped_Data_Picture/*small_test_ds.zip
+!/Tutorial/Unzipped_Data_Picture/*small_val_ds.zip
+/Tutorial/picture_model/*
+!/Tutorial/picture_model/*.ipynb
+
 # /Tutorial/data/train_files
 # /Tutorial/data/test_files
 /Tutorial/Audiofiles
