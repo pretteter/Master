@@ -1,36 +1,58 @@
+/.vscode
+
+# Backup-Ordner ignorieren
 /Backup
+
+# VS Code- und virtuelle Umgebung ignorieren
 /Tutorial/.vscode
+/Tutorial/venv
+/Tutorial/venv.zip
+
+# Logs und allgemeine gespeicherte Daten ignorieren
 /Tutorial/logs
+
+# Ignoriere alles in saved, erlaube aber den Ordner "Modells"
 /Tutorial/saved/*
 !/Tutorial/saved/Modells
+
+# Ignoriere restored_model
 /Tutorial/restored_model
+
+# Ignoriere alle Daten, erlaube spezifische .zip-Dateien
 /Tutorial/data/*
 !/Tutorial/data/*small_train_ds.zip
 !/Tutorial/data/*small_test_ds.zip
 !/Tutorial/data/*small_val_ds.zip
 
+# Ignoriere alles in Unzipped_Data_Picture, erlaube spezifische .zip-Dateien
 /Tutorial/Unzipped_Data_Picture/*
 !/Tutorial/Unzipped_Data_Picture/*small_train_ds.zip
 !/Tutorial/Unzipped_Data_Picture/*small_test_ds.zip
 !/Tutorial/Unzipped_Data_Picture/*small_val_ds.zip
+
+# Ignoriere alles im Verzeichnis picture_model
 /Tutorial/picture_model/*
+
+# Erlaube .ipynb-Dateien im Hauptverzeichnis von picture_model
 !/Tutorial/picture_model/*.ipynb
 
-# /Tutorial/data/train_files
-# /Tutorial/data/test_files
+# Erlaube alles im Ordner model_results (inklusive Unterverzeichnisse)
+!/Tutorial/picture_model/model_results/
+!/Tutorial/picture_model/model_results/**
+
+# Ignoriere alle .zip-Dateien im gesamten Ordner picture_model
+/Tutorial/picture_model/**/*.zip
+
+# Audiofiles ignorieren
 /Tutorial/Audiofiles
 Audiofiles/
-/.vscode
-/Tutorial/venv
-/Tutorial/venv.zip
 
-# Ignoriere alle Dateien in "Tutorial/saved_models"
-# Tutorial/saved_models/*
-
-# Akzeptiere alle Dateien in saved_models (inklusive Unterordner), außer .zip-Dateien
+# Regeln für saved_models
+# Ignoriere alles in saved_models, erlaube aber Dateien außer .zip
+Tutorial/saved_models/**
 !Tutorial/saved_models/**/*.*
 Tutorial/saved_models/**/*.zip
 
-# Erlaube alles in "good_Models", auch .zip-Dateien
+# Erlaube alles in good_Models, auch .zip-Dateien
 !Tutorial/saved_models/good_Models/
 !Tutorial/saved_models/good_Models/**
