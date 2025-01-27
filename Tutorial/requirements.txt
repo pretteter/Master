@@ -10,3 +10,16 @@ pip install ipynb
 pip install pickleshare
 pip install librosa
 pip install AudioSegment
+
+
+conda install wrapt
+conda install matplotlib seaborn
+conda install pysoundfile
+conda install nbformat
+conda install ipykernel
+conda install ipynb
+conda install pickleshare
+conda install librosa
+conda install AudioSegment
+conda install shap
+conda install tensorflow-gpu
