@@ -40,6 +40,12 @@
 !/Tutorial/picture_model/model_results/
 !/Tutorial/picture_model/model_results/**
 
+# Erlaube alles im Ordner compare (inklusive Unterverzeichnisse)
+!/Tutorial/picture_model/compare/
+!/Tutorial/picture_model/compare/**
+/Tutorial/picture_model/compare/orig_vs_split/splits
+
+
 # Ignoriere alle .zip-Dateien im gesamten Ordner picture_model
 /Tutorial/picture_model/**/*.zip
 
