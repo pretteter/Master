@@ -62,3 +62,4 @@ Tutorial/saved_models/**/*.zip
 # Erlaube alles in good_Models, auch .zip-Dateien
 !Tutorial/saved_models/good_Models/
 !Tutorial/saved_models/good_Models/**
+Tutorial.zip
