@@ -43,8 +43,8 @@
 # Erlaube alles im Ordner compare (inklusive Unterverzeichnisse)
 !/Tutorial/picture_model/compare/
 !/Tutorial/picture_model/compare/**
-/Tutorial/picture_model/compare/orig_vs_split/splits
-
+/Tutorial/picture_model/compare/orig_vs_split/** */
+/Tutorial/picture_model/compare/orig_vs_split/*.wav
 
 # Ignoriere alle .zip-Dateien im gesamten Ordner picture_model
 /Tutorial/picture_model/**/*.zip
