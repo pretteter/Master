@@ -1,0 +1,13 @@
+name: Enviroment_Master_Jan
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - ipykernel
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn

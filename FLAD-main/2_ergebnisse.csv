@@ -1,0 +1,64 @@
+Track Name;Ergebnis;Correctness;Wrongness
+orig-16-44-mono_Action Dust It Off Main.wav;mp3;;Wrong
+orig-16-44-mono_AmaPiano Chankura Main.wav;mp3;;Wrong
+orig-16-44-mono_Chiptune Vol6 Against By Any Means Main.wav;Lossless;Correct;
+orig-16-44-mono_Chiptune Vol6 Against The Clock Main.wav;mp3;;Wrong
+orig-16-44-mono_Chiptune Vol6 Cube Main.wav;mp3;;Wrong
+orig-16-44-mono_Chiptune Vol6 Dialed In Main.wav;Lossless;Correct;
+orig-16-44-mono_Chiptune Vol6 Fight Or Flight Main.wav;Lossless;Correct;
+orig-16-44-mono_Chiptune Vol6 Funky Main.wav;mp3;;Wrong
+orig-16-44-mono_Chiptune Vol6 Gotta Go Main.wav;mp3;;Wrong
+orig-16-44-mono_Chiptune Vol6 Idol Main.wav;mp3;;Wrong
+orig-16-44-mono_Chiptune Vol6 Jamie Main.wav;mp3;;Wrong
+orig-16-44-mono_Chiptune Vol6 Just Bits Main.wav;mp3;;Wrong
+orig-16-44-mono_DnB Deadline Main.wav;Lossless;Correct;
+orig-16-44-mono_Electronic Vol8 Back To Back Main.wav;Lossless;Correct;
+orig-16-44-mono_Electronic Vol8 Buzz Main.wav;mp3;;Wrong
+orig-16-44-mono_Electronic Vol8 Cali Main.wav;Lossless;Correct;
+orig-16-44-mono_Electronic Vol8 Cargo Main.wav;Lossless;Correct;
+orig-16-44-mono_Electronic Vol8 Deceased Rodent Main.wav;Lossless;Correct;
+orig-16-44-mono_Electronic Vol8 Ginger Bread Main.wav;mp3;;Wrong
+orig-16-44-mono_Electronic Vol8 Iridescent Wax Main.wav;mp3;;Wrong
+orig-16-44-mono_Electronic Vol8 Let It Breathe Main.wav;mp3;;Wrong
+orig-16-44-mono_Electronic Vol8 Neon Main.wav;mp3;;Wrong
+orig-16-44-mono_Electronic Vol8 Zeke Main.wav;mp3;;Wrong
+orig-16-44-mono_Epic Final Stretch Main.wav;Lossless;Correct;
+orig-16-44-mono_Japanese Dinner In Kyoto Main.wav;Lossless;Correct;
+orig-16-44-mono_Magical Dark Pixies Main.wav;mp3;;Wrong
+orig-16-44-mono_Synthwave Caraway Main.wav;mp3;;Wrong
+orig-16-44-mono_Trance Psycho Main.wav;mp3;;Wrong
+orig-16-44-mono_Villains Venoms Master Main.wav;Lossless;Correct;
+orig-16-44-mono_World Taj Main.wav;mp3;;Wrong
+upscale-from-mp3-128_Action Dust It Off Main.wav;mp3;Correct;
+upscale-from-mp3-128_AmaPiano Chankura Main.wav;mp3;Correct;
+upscale-from-mp3-128_Chiptune Vol6 Against By Any Means Main.wav;Lossless;;Wrong
+upscale-from-mp3-128_Chiptune Vol6 Against The Clock Main.wav;mp3;Correct;
+upscale-from-mp3-128_Chiptune Vol6 Cube Main.wav;mp3;Correct;
+upscale-from-mp3-128_Chiptune Vol6 Dialed In Main.wav;Lossless;;Wrong
+upscale-from-mp3-128_Chiptune Vol6 Fight Or Flight Main.wav;mp3;Correct;
+upscale-from-mp3-128_Chiptune Vol6 Funky Main.wav;mp3;Correct;
+upscale-from-mp3-128_Chiptune Vol6 Gotta Go Main.wav;mp3;Correct;
+upscale-from-mp3-128_Chiptune Vol6 Idol Main.wav;mp3;Correct;
+upscale-from-mp3-128_Chiptune Vol6 Jamie Main.wav;mp3;Correct;
+upscale-from-mp3-128_Chiptune Vol6 Just Bits Main.wav;mp3;Correct;
+upscale-from-mp3-128_DnB Deadline Main.wav;Lossless;;Wrong
+upscale-from-mp3-128_Electronic Vol8 Back To Back Main.wav;mp3;Correct;
+upscale-from-mp3-128_Electronic Vol8 Buzz Main.wav;mp3;Correct;
+upscale-from-mp3-128_Electronic Vol8 Cali Main.wav;mp3;Correct;
+upscale-from-mp3-128_Electronic Vol8 Cargo Main.wav;Lossless;;Wrong
+upscale-from-mp3-128_Electronic Vol8 Deceased Rodent Main.wav;Lossless;;Wrong
+upscale-from-mp3-128_Electronic Vol8 Ginger Bread Main.wav;mp3;Correct;
+upscale-from-mp3-128_Electronic Vol8 Iridescent Wax Main.wav;mp3;Correct;
+upscale-from-mp3-128_Electronic Vol8 Let It Breathe Main.wav;mp3;Correct;
+upscale-from-mp3-128_Electronic Vol8 Neon Main.wav;mp3;Correct;
+upscale-from-mp3-128_Electronic Vol8 Zeke Main.wav;mp3;Correct;
+upscale-from-mp3-128_Epic Final Stretch Main.wav;Lossless;;Wrong
+upscale-from-mp3-128_Japanese Dinner In Kyoto Main.wav;Lossless;;Wrong
+upscale-from-mp3-128_Magical Dark Pixies Main.wav;mp3;Correct;
+upscale-from-mp3-128_Synthwave Caraway Main.wav;mp3;Correct;
+upscale-from-mp3-128_Trance Psycho Main.wav;mp3;Correct;
+upscale-from-mp3-128_Villains Venoms Master Main.wav;Lossless;;Wrong
+upscale-from-mp3-128_World Taj Main.wav;mp3;Correct;
+
+
+Gesamtwahrscheinlichkeit aus dem Code;55.00%
